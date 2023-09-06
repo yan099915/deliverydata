@@ -6,7 +6,8 @@
             "first_name": "Kevin",
             "last_name": "Manuel Suhandi",
             "address": "411 Manufacturers Pass",
-            "phone": "6282276909162"
+            "phone": "6282276909162",
+            "delivery_status": "In Transit"
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "first_name": "Yan",
             "last_name": "Budiman",
             "address": "00717 Bandung Road",
-            "phone": "6285959462939"
+            "phone": "6285959462939",
+            "delivery_status": "Delivered"
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "first_name": "Lorenza",
             "last_name": "Mephan",
             "address": "31204 Harper Center",
-            "phone": "1042208331"
+            "phone": "1042208331",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 4,
@@ -30,7 +33,8 @@
             "first_name": "Norby",
             "last_name": "Vanlint",
             "address": "8 Arkansas Court",
-            "phone": "8344052539"
+            "phone": "8344052539",
+            "delivery_status": "Pending"
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "first_name": "Lacey",
             "last_name": "Kornas",
             "address": "9070 7th Avenue",
-            "phone": "4291208752"
+            "phone": "4291208752",
+            "delivery_status": "In Transit"
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "first_name": "Bradford",
             "last_name": "Henner",
             "address": "668 Dorton Court",
-            "phone": "3047590288"
+            "phone": "3047590288",
+            "delivery_status": "Delivered"
         },
         {
             "id": 7,
@@ -54,7 +60,8 @@
             "first_name": "Laurella",
             "last_name": "Poundford",
             "address": "3007 Messerschmidt Lane",
-            "phone": "3624228718"
+            "phone": "3624228718",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 8,
@@ -62,7 +69,8 @@
             "first_name": "Ramona",
             "last_name": "Book",
             "address": "4606 Bayside Trail",
-            "phone": "6801232988"
+            "phone": "6801232988",
+            "delivery_status": "Pending"
         },
         {
             "id": 9,
@@ -70,7 +78,8 @@
             "first_name": "Farra",
             "last_name": "Footitt",
             "address": "1 Annamark Center",
-            "phone": "2821983097"
+            "phone": "2821983097",
+            "delivery_status": "In Transit"
         },
         {
             "id": 10,
@@ -78,7 +87,8 @@
             "first_name": "Aguistin",
             "last_name": "Pedrazzi",
             "address": "79 Namekagon Way",
-            "phone": "4653264877"
+            "phone": "4653264877",
+            "delivery_status": "Delivered"
         },
         {
             "id": 11,
@@ -86,7 +96,8 @@
             "first_name": "Joella",
             "last_name": "Peegrem",
             "address": "94 Anderson Hill",
-            "phone": "5191545796"
+            "phone": "5191545796",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 12,
@@ -94,7 +105,8 @@
             "first_name": "Horatius",
             "last_name": "Sirkett",
             "address": "09947 Lawn Place",
-            "phone": "3306016803"
+            "phone": "3306016803",
+            "delivery_status": "Pending"
         },
         {
             "id": 13,
@@ -102,7 +114,8 @@
             "first_name": "Hyman",
             "last_name": "Howells",
             "address": "2822 Lunder Circle",
-            "phone": "6093906751"
+            "phone": "6093906751",
+            "delivery_status": "In Transit"
         },
         {
             "id": 14,
@@ -110,7 +123,8 @@
             "first_name": "Zacherie",
             "last_name": "Bratty",
             "address": "1 Summit Pass",
-            "phone": "6246050604"
+            "phone": "6246050604",
+            "delivery_status": "Delivered"
         },
         {
             "id": 15,
@@ -118,7 +132,8 @@
             "first_name": "Britt",
             "last_name": "Portigall",
             "address": "3 West Parkway",
-            "phone": "2232585408"
+            "phone": "2232585408",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 16,
@@ -126,7 +141,8 @@
             "first_name": "Luciana",
             "last_name": "Jahn",
             "address": "0 Acker Road",
-            "phone": "1218904237"
+            "phone": "1218904237",
+            "delivery_status": "Pending"
         },
         {
             "id": 17,
@@ -134,7 +150,8 @@
             "first_name": "Berry",
             "last_name": "O'Dowd",
             "address": "3819 Prairieview Park",
-            "phone": "6786550226"
+            "phone": "6786550226",
+            "delivery_status": "In Transit"
         },
         {
             "id": 18,
@@ -142,7 +159,8 @@
             "first_name": "Luce",
             "last_name": "Goldsberry",
             "address": "22662 Westerfield Terrace",
-            "phone": "9129641227"
+            "phone": "9129641227",
+            "delivery_status": "Delivered"
         },
         {
             "id": 19,
@@ -150,7 +168,8 @@
             "first_name": "Wes",
             "last_name": "Eich",
             "address": "85 Moland Way",
-            "phone": "4154642526"
+            "phone": "4154642526",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 20,
@@ -158,7 +177,8 @@
             "first_name": "Celesta",
             "last_name": "Potter",
             "address": "0 Bluestem Way",
-            "phone": "5254587898"
+            "phone": "5254587898",
+            "delivery_status": "Pending"
         },
         {
             "id": 21,
@@ -166,7 +186,8 @@
             "first_name": "Buddie",
             "last_name": "Ingerith",
             "address": "19 Arkansas Park",
-            "phone": "1563564542"
+            "phone": "1563564542",
+            "delivery_status": "In Transit"
         },
         {
             "id": 22,
@@ -174,7 +195,8 @@
             "first_name": "Alayne",
             "last_name": "Ovid",
             "address": "7 Homewood Circle",
-            "phone": "1244516270"
+            "phone": "1244516270",
+            "delivery_status": "Delivered"
         },
         {
             "id": 23,
@@ -182,7 +204,8 @@
             "first_name": "Noland",
             "last_name": "Dye",
             "address": "6695 Colorado Junction",
-            "phone": "2334212756"
+            "phone": "2334212756",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 24,
@@ -190,7 +213,8 @@
             "first_name": "Earl",
             "last_name": "Baszkiewicz",
             "address": "74 Meadow Valley Terrace",
-            "phone": "9174614120"
+            "phone": "9174614120",
+            "delivery_status": "Pending"
         },
         {
             "id": 25,
@@ -198,7 +222,8 @@
             "first_name": "Ulrich",
             "last_name": "Accum",
             "address": "7 Westridge Road",
-            "phone": "4738396222"
+            "phone": "4738396222",
+            "delivery_status": "In Transit"
         },
         {
             "id": 26,
@@ -206,7 +231,8 @@
             "first_name": "Randolph",
             "last_name": "Gynni",
             "address": "6774 Sage Junction",
-            "phone": "8146280092"
+            "phone": "8146280092",
+            "delivery_status": "Delivered"
         },
         {
             "id": 27,
@@ -214,7 +240,8 @@
             "first_name": "Basilius",
             "last_name": "Betjes",
             "address": "52125 Hazelcrest Parkway",
-            "phone": "8258254733"
+            "phone": "8258254733",
+            "delivery_status": "Out for Delivery"
         },
         {
             "id": 28,
@@ -222,7 +249,8 @@
             "first_name": "Jenilee",
             "last_name": "Kettlestringes",
             "address": "99743 Laurel Center",
-            "phone": "5302626228"
+            "phone": "5302626228",
+            "delivery_status": "Pending"
         },
         {
             "id": 29,
@@ -230,7 +258,8 @@
             "first_name": "Umberto",
             "last_name": "Minifie",
             "address": "6 Granby Terrace",
-            "phone": "7817311255"
+            "phone": "7817311255",
+            "delivery_status": "In Transit"
         },
         {
             "id": 30,
@@ -238,7 +267,8 @@
             "first_name": "Iolanthe",
             "last_name": "Imbrey",
             "address": "0 Thackeray Avenue",
-            "phone": "7017479249"
+            "phone": "7017479249",
+            "delivery_status": "Delivered"
         }
     ]
 }
