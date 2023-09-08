@@ -3,10 +3,10 @@
         {
             "id": 1,
             "tracking_number": "TRK123456789",
-            "first_name": "Kevin",
-            "last_name": "Manuel Suhandi",
+            "first_name": "Agus",
+            "last_name": "Syafiudin",
             "address": "411 Manufacturers Pass",
-            "phone": "6282276909162",
+            "phone": "6282213758401",
             "delivery_status": "In Transit"
         },
         {
@@ -15,7 +15,7 @@
             "first_name": "Yan",
             "last_name": "Budiman",
             "address": "00717 Bandung Road",
-            "phone": "6285959462939",
+            "phone": "6289531510276",
             "delivery_status": "Delivered"
         },
         {
